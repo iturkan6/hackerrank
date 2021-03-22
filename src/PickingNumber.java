@@ -31,7 +31,7 @@ public class PickingNumber {
     }
 
     public static void main(String[] args) {
-        System.out.println(pickingNumbers(Arrays.asList(1, 2, 2, 3, 1, 2)));
+        System.out.println(pickingNumbers(Arrays.asList(1, 2, 4, 5)));
         //Expected result "5"
         System.out.println(pickingNumbers(Arrays.asList(4, 6, 5, 3, 3, 1)));
         //Expected result "3"
